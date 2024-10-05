@@ -36,7 +36,7 @@ instances = ec2_resource.create_instances(
             'Tags': [
                 {
                     'Key': 'Name',
-                    'Value': 'MyPythonServer'
+                    'Value': 'ec2bototesting'
                 },
                 {
                     'Key': 'Department',
